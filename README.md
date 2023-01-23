@@ -4,7 +4,7 @@
 
 # Instalação
 
-- Baixar o arquivo fastAPICRUD.zip
+- Baixar o arquivo fastAPI_CRUD.zip
 - Descompactar na pasta desejada
 - Criar ambiente virtual -> 
   python -m venv <nome_do_ambiente>
